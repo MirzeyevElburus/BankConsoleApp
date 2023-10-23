@@ -1,0 +1,28 @@
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.exe
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.deps.json
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.dll
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.pdb
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.dll
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\refint\Bank ConsoleAppilication.dll
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.pdb
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\ref\Bank ConsoleAppilication.dll
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.dll
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\refint\Bank ConsoleAppilication.dll
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.pdb
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.exe
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.deps.json
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.runtimeconfig.json
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.dll
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\bin\Debug\net6.0\Bank ConsoleAppilication.pdb
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\Bank ConsoleAppilication.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\23 oktyabr\Bank ConsoleAppilication\Bank ConsoleAppilication\obj\Debug\net6.0\ref\Bank ConsoleAppilication.dll
